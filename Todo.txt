@@ -13,3 +13,11 @@ Share:- https://github.com/Samiran2004/Cafe
 6th Step:- commit the changes [git commit -m "add | fix | update | delete/message"]
 
 7th Step:- push the changes [git push origin <branch_name>]
+
+8th Step:- create a pull request on GitHub
+
+9th Step:- git switch <main>
+
+10th Step:- now Sync in GitHub
+
+11th Step:- git pull origin main
