@@ -1,0 +1,15 @@
+Share:- https://github.com/Samiran2004/Cafe
+
+1st Step:- Fork [Fork the project on github]
+
+2nd Step:- Pull the project... [git pull <project_url>]
+
+3rd Step:- Create New Branch  [best practice:- <your_user_name>/nav   ||  Command:- git checkout -b <your_user_name>/nav]
+
+4th Step:- Update changes [Change or add new file or code]
+
+5th Step:- add changes [git add .]
+
+6th Step:- commit the changes [git commit -m "add | fix | update | delete/message"]
+
+7th Step:- push the changes [git push origin <branch_name>]
