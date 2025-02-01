@@ -21,3 +21,12 @@ Share:- https://github.com/Samiran2004/Cafe
 10th Step:- now Sync in GitHub
 
 11th Step:- git pull origin main
+
+
+//........................For JS Push.........................//
+
+Step:- Switch the branch [git switch origin main]
+Step:- merge the branch [git merge <your_branch_name>]
+Step:- push your code [git push -u origin main]
+Step:- fetch the codebase [git fetch origin main]
+Step:- pull the new code [git pull origin main]
